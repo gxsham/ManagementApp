@@ -1,0 +1,10 @@
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\bin\Debug\Domain.dll.config
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\bin\Debug\Domain.dll
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\bin\Debug\Domain.pdb
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\bin\Debug\EntityFramework.dll
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\bin\Debug\EntityFramework.xml
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\obj\Debug\Domain.dll
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\Domain\obj\Debug\Domain.pdb

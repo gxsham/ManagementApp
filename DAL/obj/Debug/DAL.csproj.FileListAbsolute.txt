@@ -1,0 +1,15 @@
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\DAL.dll
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\DAL.pdb
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\Domain.dll
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\Domain.pdb
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\Domain.dll.config
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\obj\Debug\DAL.dll
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\obj\Debug\DAL.pdb
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\obj\Debug\DAL.Migrations.initial.resources
+C:\Users\gxsha\onedrive\documents\visual studio 2017\Projects\TaskManagerApp\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
